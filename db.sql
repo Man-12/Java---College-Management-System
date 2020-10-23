@@ -1,4 +1,3 @@
-//Table - Login Id and Pw
 create table login
 (
 	username varchar(20), 
